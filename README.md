@@ -10,3 +10,7 @@ I Just Change CSS, HTML, JS !
 
 # Credits
 * [original version](https://github.com/loljoshie/lj-inventory)
+
+* css is encrypted, so if you want to change the css join my discord and dm me, i will help you for sure !
+
+# PEace ✌ 
