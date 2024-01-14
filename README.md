@@ -12,3 +12,5 @@ I Just Change CSS, HTML, JS !
 * [original version](https://github.com/loljoshie/lj-inventory)
 
 # Peace ✌ 
+<p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/mb-inventory-replace/count.svg" />
